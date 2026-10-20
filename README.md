@@ -8,7 +8,7 @@ Projekt optimalizace řízení výtahu, který dosáhl celkového zrychlení **8
  
 * **Filip Czaban** — Program a algoritmus
 * **Tomáš Vrabec** — Dokumentace (`README.md`)
-* **Ondra Góla** — Kontrola a revize
+* **Ondra Gola** — Kontrola a revize
  
 ---
  
