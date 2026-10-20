@@ -21,7 +21,7 @@ Projekt optimalizace řízení výtahu, který dosáhl celkového zrychlení **8
  
 ## ⚡ Rychlé spuštění
  
-1. Otevři **[`vytah.html`](vytah.html)** v prohlížeči.
+1. Otevři **[`index.html`](index.html)** v prohlížeči.
 2. Načti soubor se zadáním (`zadani-bezny-den-ve-skole-B746-8C6D.json`).
 3. Simulace proběhne automaticky.
 
