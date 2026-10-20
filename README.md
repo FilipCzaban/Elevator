@@ -14,7 +14,7 @@ Projekt optimalizace řízení výtahu, který dosáhl celkového zrychlení **8
  
 ## 📁 Klíčové soubory
  
-* **[`vytah.html`]** — Hlavní odevzdávaný soubor s novým optimalizovaným algoritmem.
+* **vytah.html** — Hlavní odevzdávaný soubor s novým optimalizovaným algoritmem.
 * **[`zadani-bezny-den-ve-skole-B746-8C6D.json`](zadani-bezny-den-ve-skole-B746-8C6D.json)** — Oficiální zadání: 400 lidí, 8 pater (otisk `B746-8C6D`).
  
 ---
