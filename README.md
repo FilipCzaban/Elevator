@@ -1,7 +1,8 @@
 # 🛗 Simulátor výtahu — Školní projekt
  
 Projekt optimalizace řízení výtahu, který dosáhl celkového zrychlení **84,4 %** oproti původnímu FIFO algoritmu.
- 
+
+> 🌐 **Živá ukázka projektu:** [Vyzkoušet simulátor přímo v prohlížeči](https://filipczaban.github.io/Elevator/) *(bez nutnosti stahování)*
 ---
  
 ## 👥 Autorský tým
